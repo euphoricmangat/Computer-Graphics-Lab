@@ -14,4 +14,5 @@ Lab 2 : Drawing line using DDA(Digital Differential Analyzer) algorithm
 
 Lab 3 : Drawing line using Bresenhalm's line drawing algorithm
 
+Misc 1 : Playing around with koch curve to draw a fractal 
 
